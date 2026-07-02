@@ -2,9 +2,9 @@
 [Portfolio](https://aasimali.vercel.app/) 
 
 # Projects Live Links:
-[Portfolio](https://aasimali.vercel.app/)
-[food-delivery](https://tomato-myfoods.vercel.app/)
-[Wallpaper](https://wallzy-wall.vercel.app/) 
+[Portfolio](https://aasimali.vercel.app/)   
+[food-delivery](https://tomato-myfoods.vercel.app/)   
+[Wallpaper](https://wallzy-wall.vercel.app/)    
 
 
 ## 🌐 Socials:
